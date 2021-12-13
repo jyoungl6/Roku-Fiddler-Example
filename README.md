@@ -67,6 +67,6 @@ To decrypt HTTPS go to Tool -> Options -> HTTPS and check **Decrypt HTTPS traffi
 ## Start Debugging! ##
 After following the above recommendations and changes, make sure Fiddler is up and running and start your Roku channel. You should then see network traffic from the Roku appear in the Fiddler log.
 
-Charles is another proxy that can be used as a proxy in Roku development. Here's a link to an example on how to use Charles. 
+Charles is another proxy that can be used in Roku development. Here's a link to an example on how to use Charles. 
 https://github.com/chrisdp/Roku-Charles-example
 
